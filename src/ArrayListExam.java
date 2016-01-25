@@ -23,7 +23,7 @@ public class ArrayListExam {
         //getMaxX() : 오른쪽 끝 X좌표
         //getWidth() : 가로 길이
         //translate : x, y만큼 길이이동
-            System.out.println(pic1.);
+
         for (int i = 0; i < list.size(); i++) {
             Picture pic = list.get(i);
             pic.draw();
